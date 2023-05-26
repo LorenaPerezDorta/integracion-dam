@@ -10,7 +10,7 @@ Sigue los pasos a continuación para instalar y comenzar a utilizar la aplicaci�
 -----
 *Instalación en Android:*
 
-Ve al siguiente enlace para descargar el archivo de instalación de la aplicación: [[Showpedia.apk]](https://drive.google.com/uc?export=download&id=1zCuzaPrE930j9scsXLWqs83yrS1my2SH).
+Ve al siguiente enlace para acceder al apartado de releases y descargar el archivo de instalación de la aplicación: [Showpedia.apk](https://github.com/LorenaPerezDorta/integracion-dam/releases)
 
 Espera a que se descargue el archivo .apk, por seguridad el dispositivo movil nos advertirá que está bloqueado el proceso.
 
