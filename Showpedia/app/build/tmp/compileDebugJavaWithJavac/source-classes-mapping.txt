@@ -1,0 +1,73 @@
+com/lorena/showpedia/models/movie/Movie.java
+ com.lorena.showpedia.models.movie.Movie
+com/lorena/showpedia/models/tv/TvShowDetail.java
+ com.lorena.showpedia.models.tv.TvShowDetail
+com/lorena/showpedia/MainActivity.java
+ com.lorena.showpedia.MainActivity
+ com.lorena.showpedia.MainActivity$1
+com/lorena/showpedia/adapters/movie/MovieAdapter.java
+ com.lorena.showpedia.adapters.movie.MovieAdapter
+ com.lorena.showpedia.adapters.movie.MovieAdapter$ViewHolder
+com/lorena/showpedia/fragments/FragmentMovie.java
+ com.lorena.showpedia.fragments.FragmentMovie
+ com.lorena.showpedia.fragments.FragmentMovie$1
+ com.lorena.showpedia.fragments.FragmentMovie$2
+ com.lorena.showpedia.fragments.FragmentMovie$3
+com/lorena/showpedia/fragments/FragmentTv.java
+ com.lorena.showpedia.fragments.FragmentTv
+ com.lorena.showpedia.fragments.FragmentTv$1
+ com.lorena.showpedia.fragments.FragmentTv$2
+ com.lorena.showpedia.fragments.FragmentTv$3
+com/lorena/showpedia/fragments/TabMovieBookmark.java
+ com.lorena.showpedia.fragments.TabMovieBookmark
+com/lorena/showpedia/adapters/tv/TvShowAdapter.java
+ com.lorena.showpedia.adapters.tv.TvShowAdapter
+ com.lorena.showpedia.adapters.tv.TvShowAdapter$ViewHolder
+com/lorena/showpedia/adapters/bookmark/MovieBookmarkAdapter.java
+ com.lorena.showpedia.adapters.bookmark.MovieBookmarkAdapter
+ com.lorena.showpedia.adapters.bookmark.MovieBookmarkAdapter$ViewHolder
+com/lorena/showpedia/fragments/FragmentBookmark.java
+ com.lorena.showpedia.fragments.FragmentBookmark
+com/lorena/showpedia/adapters/bookmark/TvBookmarkAdapter.java
+ com.lorena.showpedia.adapters.bookmark.TvBookmarkAdapter
+ com.lorena.showpedia.adapters.bookmark.TvBookmarkAdapter$ViewHolder
+com/lorena/showpedia/helper/OnItemClickListener.java
+ com.lorena.showpedia.helper.OnItemClickListener
+com/lorena/showpedia/networks/Consts.java
+ com.lorena.showpedia.networks.Consts
+com/lorena/showpedia/networks/ApiService.java
+ com.lorena.showpedia.networks.ApiService
+com/lorena/showpedia/models/movie/MovieResult.java
+ com.lorena.showpedia.models.movie.MovieResult
+com/lorena/showpedia/dbs/dao/FavoriteDao.java
+ com.lorena.showpedia.dbs.dao.FavoriteDao
+com/lorena/showpedia/models/tv/TvResult.java
+ com.lorena.showpedia.models.tv.TvResult
+com/lorena/showpedia/BuildConfig.java
+ com.lorena.showpedia.BuildConfig
+com/lorena/showpedia/TvActivityDetail.java
+ com.lorena.showpedia.TvActivityDetail
+ com.lorena.showpedia.TvActivityDetail$1
+com/lorena/showpedia/dbs/table/FavoriteTv.java
+ com.lorena.showpedia.dbs.table.FavoriteTv
+com/lorena/showpedia/dbs/table/FavoriteMovie.java
+ com.lorena.showpedia.dbs.table.FavoriteMovie
+com/lorena/showpedia/helper/Utility.java
+ com.lorena.showpedia.helper.Utility
+com/lorena/showpedia/helper/Genre.java
+ com.lorena.showpedia.helper.Genre
+com/lorena/showpedia/models/movie/MovieDetail.java
+ com.lorena.showpedia.models.movie.MovieDetail
+com/lorena/showpedia/dbs/AppDatabase.java
+ com.lorena.showpedia.dbs.AppDatabase
+com/lorena/showpedia/MovieActivityDetail.java
+ com.lorena.showpedia.MovieActivityDetail
+ com.lorena.showpedia.MovieActivityDetail$1
+com/lorena/showpedia/adapters/bookmark/ViewPagerAdapter.java
+ com.lorena.showpedia.adapters.bookmark.ViewPagerAdapter
+com/lorena/showpedia/fragments/TabTvBookmark.java
+ com.lorena.showpedia.fragments.TabTvBookmark
+com/lorena/showpedia/networks/GetRetrofit.java
+ com.lorena.showpedia.networks.GetRetrofit
+com/lorena/showpedia/models/tv/TvShow.java
+ com.lorena.showpedia.models.tv.TvShow

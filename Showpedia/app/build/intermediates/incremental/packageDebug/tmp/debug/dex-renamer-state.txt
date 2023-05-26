@@ -1,0 +1,4 @@
+#Fri May 26 03:49:47 WEST 2023
+base.0=C\:\\Users\\loren\\AndroidStudioProjects\\Showpedia\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

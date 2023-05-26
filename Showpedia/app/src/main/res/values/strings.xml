@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Showpedia</string>
+    <string name="nav_1">Películas</string>
+    <string name="nav_2">Series</string>
+    <string name="nav_3">Favoritos</string>
+    <string name="filler_words">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sit amet risus at odio lobortis eleifend eget nec elit. Proin consectetur urna et congue sagittis. Quisque congue sem massa, at pulvinar nibh placerat vitae. Nulla porttitor, massa non efficitur imperdiet, arcu augue ullamcorper erat, a efficitur tortor arcu vitae eros.</string>
+    <string name="tab_text_1">Películas</string>
+    <string name="tab_text_2">Series</string>
+    <string name="text_detail">Resumen</string>
+    <string name="text_rating">Valoración</string>
+    <string name="text_titte">Título</string>
+    <string name="text_type">Drama</string>
+    <string name="text_img">Imagen</string>
+</resources>
