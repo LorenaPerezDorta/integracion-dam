@@ -1,7 +1,13 @@
 # Pruebas
 
-Detección de fallos cometidos en las etapadas anteriores para corregirlos. Elaborar planes de pruebas a distintos niveles: pruebas unitarias, pruebas de integración, pruebas con usuarios, ...
+* **Pruebas unitarias:** 
+Se crearon pruebas unitarias para verificar el correcto funcionamiento de las funciones y métodos relacionados con la obtención de información desde la API y el procesamiento de datos.
 
-Incluye en este apartado la documentación de las pruebas que te planteas realizar.
+* **Pruebas de interfaz de usuario (UI):**
+Para evaluar la interacción entre el usuario y la interfaz de la aplicación. Se simularon acciones de clic en las películas o series para verificar que se muestran los detalles correctamente, y se realizaron pruebas para confirmar que se agregan lo títulos a la lista de favoritos.
 
-También la documentación resultante de las pruebas realizadas con la confimación de su correcto funcionamiento y las conclusiones que se puedan extraer de las mismas. 
+* **Pruebas de aceptación:**
+Validando que la aplicación cumpla con los requisitos y funcionalidades esperados. En la medida de lo posible, se corrigieron los errores y se implemetaros los requisitos establecidos.
+
+* **Pruebas de compatibilidad:**
+Se pobró la compatibilidad en diferentes dispositivos y versiones de sistema  usando emuladores. De esta manera se garantiza que la aplicación funcione correctamente en diferentes configuraciones.
