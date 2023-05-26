@@ -151,9 +151,9 @@ public class TvActivityDetail extends AppCompatActivity {
                     FavoriteTv favorite = database.favoriteDao().findByTvId(tvShowId);
                     database.favoriteDao().deleteFavoriteTv(favorite).subscribe(() -> {
                         item.setIcon(ContextCompat.getDrawable(this,R.drawable.ic_action_bar_favorite_border_24));
-                        Toast.makeText(this, "Unbookmark", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(this, "Eliminado de favoritos", Toast.LENGTH_SHORT).show();
                     }, throwable -> {
-                        Toast.makeText(this, "Operation Failed", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(this, "ERROR: no se ha podido eliminar", Toast.LENGTH_SHORT).show();
                     });
 
                 }else{
@@ -161,9 +161,9 @@ public class TvActivityDetail extends AppCompatActivity {
                     database.favoriteDao().addFavoriteTvShow(favorite).subscribe(() -> {
                         item.setIcon(ContextCompat.getDrawable(this,R.drawable.ic_action_bar_favorite_24));
 
-                        Toast.makeText(this, "Bookmarked", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(this, "Añadido a favoritos", Toast.LENGTH_SHORT).show();
                     }, throwable -> {
-                        Toast.makeText(this, "Failed To Add", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(this, "ERROR: no se ha podido añadir", Toast.LENGTH_SHORT).show();
                     });
                 }
 
