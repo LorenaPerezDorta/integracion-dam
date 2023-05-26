@@ -35,4 +35,4 @@ Desde los detalles de un título, lo podrás añadir o quitar a favoritos pulsan
 
 Puedes acceder a tu lista de favoritos, podrás hacerlo desde la parte inferior de la app, desde donde también acceder a la parte de series o de películas.
 
-Explora todas las funciones disponibles en la aplicación XYZ y disfruta de la experiencia de descubrir nuevas series y películas.
+Explora todas las funciones disponibles en la aplicación y disfruta de la experiencia de descubrir nuevas series y películas.
