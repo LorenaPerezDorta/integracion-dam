@@ -9,7 +9,7 @@ Sigue los pasos a continuación para instalar y comenzar a utilizar la aplicaci�
 
 *Instalación en Android:*
 
-Ve al siguiente enlace para descargar el archivo de instalación de la aplicación: [[enlace de descarga]](https://drive.google.com/uc?export=download&id=1ttD__vsJEVUrz2mLTf8SbXEfmoiDhiGj).
+Ve al siguiente enlace para descargar el archivo de instalación de la aplicación: [[Showpedia.apk]](https://drive.google.com/uc?export=download&id=1ttD__vsJEVUrz2mLTf8SbXEfmoiDhiGj).
 Espera a que se descargue el archivo .apk, por seguridad el dispositivo movil nos advertirá que está bloqueado el proceso.
 En cualquier caso, para dar permisos y que se descargue la app se debe entrar en los "Ajustes" del sistema o el apartado de "Configuración" en tu móvil.
 Buscamos la opción "Aplicaciones" (puede variar el nombre), dentro tocamos en "Ver todas las aplicaciones", seleccionamos la aplicación desde la que se está haciendo el rpoceso y en la opción "Instalar aplicaciones desconocidas" activamos la casilla.
